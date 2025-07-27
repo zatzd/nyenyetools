@@ -18,7 +18,13 @@ HASIL GABUT
 ## 🚀 Cara Install:
 ```bash
 pkg install git -y
+```
+```bash
 git clone https://github.com/zatzd/nyenyetools
+```
+```bash
 cd nyenyetools
+```
+```bash
 bash install.sh
 
